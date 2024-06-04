@@ -98,7 +98,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   opacity: 0;
   transition:all cubic-bezier(0.215, 0.61, 0.355, 1) 1s;
   background-size: cover;
-  background-image: url('../images/sm-bg3.png');
+  /* background-image: url('../images/sm-bg3.png'); */
   animation: 1s imgfade forwards;
   animation-delay: .8s;
 }
